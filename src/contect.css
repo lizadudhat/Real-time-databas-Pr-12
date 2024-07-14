@@ -1,0 +1,16 @@
+body{
+
+   
+    background-color: rgb(255, 248, 248);
+   
+    color: white;
+}
+
+form{
+    box-shadow: 1px 3px 4px rgb(109, 98, 98);
+    border-radius: 50px;
+    padding: 30px 20px 15px 0px;
+    background-color:rgba(128, 128, 128, 0.799);
+    background-blend-mode: darken;
+    margin-top: 100px;
+}
